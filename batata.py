@@ -7,10 +7,15 @@ def login(login, senha):
     print(senha)
     return True
 
+
 def logout():
     print("logout")
 
-def contato(contato, sla): 
+
+print("sfd")
+
+
+def contato(contato, sla):
     print(contato)
     print(sla)
     return True
