@@ -7,3 +7,6 @@ def login(login,senha):
     print(senha)
     return True
 
+def contato(contato):
+    print(contato)
+    return True
