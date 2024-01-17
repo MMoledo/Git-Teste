@@ -20,3 +20,7 @@ def contato(contato, sla):
     print(sla)
     return True
     return true
+
+
+def homepage():
+    login_user = int(input("aaaaaaaaa"))
