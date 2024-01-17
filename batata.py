@@ -12,4 +12,4 @@ def contato(contato, sla):
     print(contato)
     print(sla)
     return True
-    return False
+    return true
