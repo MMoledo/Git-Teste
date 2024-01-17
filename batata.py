@@ -7,3 +7,5 @@ def login(login,senha):
     print(senha)
     return True
 
+def logout():
+    print("logout")
