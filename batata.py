@@ -19,6 +19,10 @@ print("sadsadadsadsa")
 print("sfd")
 print("sadsadadsadsa")
 
+print("dadasdasda")
+print("dadasdasda")
+print("dadasdasda")
+print("dadasdasda")
 def contato(contato, sla):
     print(contato)
     print(sla)
