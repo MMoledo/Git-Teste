@@ -18,5 +18,12 @@ def contato(contato, sla):
     return true
 
 
+def contato2(contato, sla):
+    print(contato)
+    print(sla)
+    return True
+    return true
+
+
 def homepage():
     login_user = int(input("aaaaaaaaa"))
