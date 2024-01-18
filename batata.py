@@ -2,10 +2,8 @@ print("This is an empty header")
 print("This is an empty footer")
 
 
-def login(login, senha):
-    print(login)
-    print(senha)
-    return True
+def login(usuario, senha):
+    print("usuario:",usuario,  "senha:", senha)
 
 
 def logout():
@@ -21,10 +19,22 @@ print("sadsadadsadsa")
 
 print (2*2)
 
+
+
+usuario = 'caiokkkk'
+senha = 'caio@123'
+
+
+print(login(usuario,senha))
+
+
+
 print("dadasdasda")
 print("dadasdasda")
 print("dadasdasda")
 print("dadasdasda")
+
+
 def contato(contato, sla):
     print(contato)
     print(sla)
