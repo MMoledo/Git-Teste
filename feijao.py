@@ -1,8 +1,5 @@
 print("This is an empty header")
 print("This is an empty footeraag")
-<<<<<<< HEAD
-=======
-
 
 def login(usuario, senha):
     print("usuario:",usuario,  "senha:", senha)
@@ -70,10 +67,8 @@ def loading_screen():
     print("Loading...")
     print("Loading...")
     print("Loading...")
-<<<<<<< HEAD
 # tentando salvar
 print("This is an empty header")
-=======
 print("This is an empty header")
 print("This is an empty footer")
 
