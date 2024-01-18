@@ -14,8 +14,10 @@ print("sfd")
 print("sadsadadsadsa")
 
 
-def contato(contato, sla):
-    print("contato")
+def contatos(contato, sla):
+    contato = 'moledo123'
+    sla = 'sla'
+    print(contato,sla)
 
 
 def contato2(contato, sla):
