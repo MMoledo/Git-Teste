@@ -11,20 +11,6 @@ def login(login, senha):
 def logout():
     print("logout")
 
-
-print("sfd")
-print("sadsadadsadsa")
-
-
-print("sfd")
-print("sadsadadsadsa")
-
-print (2*2)
-
-print("dadasdasda")
-print("dadasdasda")
-print("dadasdasda")
-print("dadasdasda")
 def contato(contato, sla):
     print(contato)
     print(sla)
