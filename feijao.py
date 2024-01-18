@@ -18,8 +18,6 @@ def contato(contato, sla):
     print("contato")
 
 
-
-
 def contato2(contato, sla):
     print(contato)
     print(sla)
