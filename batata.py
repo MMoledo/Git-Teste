@@ -19,23 +19,18 @@ print("sadsadadsadsa")
 
 print (2*2)
 
-
-
-usuario = 'caiokkkk'
-senha = 'caio@123'
-
-
-print(login(usuario,senha))
-
-
-
 print("dadasdasda")
 print("dadasdasda")
 print("dadasdasda")
 print("dadasdasda")
-
-
 def contato(contato, sla):
+    print(contato)
+    print(sla)
+    return True
+    return true
+
+
+def contato2(contato, sla):
     print(contato)
     print(sla)
     return True
