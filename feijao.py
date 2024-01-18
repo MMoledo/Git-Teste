@@ -15,7 +15,7 @@ print("sadsadadsadsa")
 
 
 def contato(contato, sla):
-    print("contato")
+    print("contato2")
 
 
 def contato2(contato, sla):
