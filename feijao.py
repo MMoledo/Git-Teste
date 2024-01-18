@@ -13,6 +13,10 @@ def logout():
 print("sfd")
 print("sadsadadsadsa")
 
+def contatos(contato, sla):
+    contato = 'moledo123'
+    sla = 'sla'
+    print(contato,sla)
 
 def contato2(contato, sla):
     print(contato)
