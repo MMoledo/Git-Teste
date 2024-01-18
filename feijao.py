@@ -27,3 +27,8 @@ def contato2(contato, sla):
 
 def homepage():
     login_user = int(input("aaaaaaaaa"))
+    
+def loading_screen():
+    print("Loading...")
+    print("Loading...")
+    print("Loading...")
