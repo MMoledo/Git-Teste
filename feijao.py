@@ -21,7 +21,6 @@ def contato2(contato, sla):
     print(contato)
     print(sla)
     return True
-    return true
 
 
 def homepage():
